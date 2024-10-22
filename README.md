@@ -1,3 +1,5 @@
+Angular 18 - Change Detection - Udemy / Section 10
+---
 # ChangeDetectionDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
